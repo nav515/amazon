@@ -1,0 +1,257 @@
+body{
+    background-color: whitesmoke;
+}
+
+.head{
+    display: flex;
+    background-color: #0F2027;
+    color: #FFFF;
+    height: 60px;
+    /* font-size: medium; */
+}
+.hello{
+    width: 200px;
+    margin-left: 20px;
+    padding-top: 5px;
+   
+}
+.form-outline{
+    width: 500px;
+    margin-left: 2px;
+    padding-top: 9px;
+}
+.input-group{
+    width: 500px; 
+   
+}
+.signin{
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.returns{
+    margin-left: 10px;
+    padding-top: 5px;
+}
+/* =====================================NAV BAR======================================== */
+.nav_bar{
+    height: 50px;
+    background-color:#232F3E;
+}
+.nav_bar ul{
+    display: flex;
+}
+.nav_bar ul li{
+    margin-left: 30px;
+    text-decoration: none;
+    list-style: none;
+    padding-top: 10px;
+}
+.nav_bar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.nav_bar ul li:hover{
+    border: 1px solid whitesmoke;
+
+}
+/* #######################################################head############################################# */
+.head img:hover{
+    border: 1px solid whitesmoke;
+}
+.hello:hover{
+    border: 1px solid whitesmoke;
+}
+.dropdown mt-10:hover{
+    border: 1px solid whitesmoke;
+}
+.signin:hover{
+    border:1px solid whitesmoke;
+}
+.returns:hover{
+    border:1px solid whitesmoke;
+}
+/* ############################################## main section ####################################### */
+
+.grid{
+    display: flex;
+}
+.card1{
+    margin-top: -320px;
+    height: 450px;
+    width: 350px;
+    background-color: white;
+    margin-left: 25px;
+    position: relative;
+}
+.card1 span{
+    padding-left: 25px;
+
+}
+
+.card2{
+
+    margin-top: -320px;
+    height: 450px;
+    width: 350px;
+    background-color: white;
+    margin-left: 25px;
+    position: relative;
+
+
+}
+.card2 img{
+    margin-top: 50px;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+span{
+    font-weight: bold;
+    color: black;
+    font-size: small;
+}
+/* ################################################################# */
+div.scrollmenu {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+  /* ###################################################################################################### */
+
+  .gd{
+      display: flex;
+        
+  }
+  .gd1{
+      background-color: white;
+      height: 400px;
+      width: 40%;
+      margin-top: 30px;
+      margin-left: 100px;
+  }
+  .gd1 span{
+      font-size: larger;
+  }
+  .gd2{
+    background-color: white;  
+    height: 400px;
+    width: 40%; 
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+.gd2 span{
+    font-size: larger;
+}
+/* ################################################################### */
+div.scrollmenu1 {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    margin-top: 60px;
+  }
+  
+  div.scrollmenu1 ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  div.scrollmenu1 a:hover {
+    background-color: #777;
+  }
+/* ############################################################################ */
+
+div.scrollmenu2 {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    margin-top: 60px;
+  }
+  
+  div.scrollmenu2 ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  div.scrollmenu2 a:hover {
+    background-color: #777;
+  }
+
+  /* ############################################################################## */
+
+  .box1{
+    background-color: #364455;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+
+}
+.box2{
+    display: flex;
+    background-color: #252b33 ;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.box21{
+    padding-left: 10px;
+}
+.box21 ul li{
+    padding-top: 10px;
+}
+.box22{
+    padding-left: 30px;
+}
+.box22 ul li{
+    padding-top: 10px;
+}
+.box2 ul li{
+    list-style: none;
+    padding-left: 20px;
+
+}
+.box2 ul li a{
+    color: white;
+    text-decoration: none;
+}
+.box2{
+    padding-left: 300px;
+}
+.box3{
+    display: flex;
+    background-color: #253242 ;
+    padding-left: 350px;
+}
+.box3 ul li{
+    list-style: none;
+    
+}
+.box23 ul li{
+    padding-top: 10px;
+}
+.box24 ul li{
+    padding-top: 10px;
+}
+.box3 ul li a{
+    color: white;
+}
+.box32{
+    padding-left: 100px;
+}
+.box33{
+    padding-left: 100px;
+}
+.box34{
+    padding-left: 100px;
+}
